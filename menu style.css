@@ -4,8 +4,6 @@ body
 h4
 {color: #FFFFFF; text-align: center;}
 
-table, th, td
-{border: 1; background-color: #CEE8F0; text-align: center;}
+button
+{background-color: #CEE8F0; text-align: center;}
 
-table
-{width: 100;}
