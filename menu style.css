@@ -4,8 +4,8 @@ body
 h4
 {color: #FFFFFF; text-align: center;}
 
-table
-{border: 1; border-radius: 10; border-spacing: 1; background-color: #0E3386; class: center-table;}
+table, th, td
+{border: 1px solidwhite; background-color: #0E3386; text-align: center;}
 
-td
-{ color: #FFFFFF; align: center;}
+table
+{width: 100%;}
