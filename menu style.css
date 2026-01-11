@@ -4,9 +4,6 @@ body
 h4
 {color: #FFFFFF; text-align: center;}
 
-p
-{align: center;}
-
-button
-{background-color: #CEE8F0;}
+button, p
+{background-color: #CEE8F0; align: center;}
 
