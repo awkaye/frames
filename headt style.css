@@ -1,8 +1,9 @@
 body
 {background-color: #87CEFA;}
 
-h4
-{color: #FFFFFF; text-align: center;}
+table, tr, td
+{border: 1px solid white; background-color: #2EB9FF; text-align: center;}
 
-button
-{background-color: #2EB9FF; align: center;}
+table
+{width: 100%;}
+
